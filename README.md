@@ -1,7 +1,7 @@
 # Evaluación Final Transversal - Modelamiento Base de Datos
 
 * Nombre: Camilo Andrés Pinto Martinez
-* Carrera: Analista Programador Computacional
+* Carrera: Analista Programador
 * Fecha de entrega: 11/10/2026
 * Sección: 004A
 * Sede: Campus Virtual
